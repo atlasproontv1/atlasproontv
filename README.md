@@ -1,10 +1,10 @@
 # atlasproontv
 Guides TV numériques, Smart TV, Android TV et streaming pour les utilisateurs francophones.
-# Atlas Pro France — TV numérique, Smart TV & streaming
+# Atlas Pro — TV numérique, Smart TV & streaming
 
 Bienvenue sur ce profil GitHub.
 
-Atlas Pro France est une ressource francophone dédiée aux solutions TV numériques, à la configuration Smart TV, Android TV, box TV et aux conseils pour améliorer la stabilité du streaming à la maison.
+Atlas Pro est une ressource francophone dédiée aux solutions TV numériques, à la configuration Smart TV, Android TV, box TV et aux conseils pour améliorer la stabilité du streaming à la maison.
 
 ## Ce que nous partageons
 
